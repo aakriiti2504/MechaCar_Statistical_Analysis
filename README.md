@@ -24,6 +24,16 @@ In this challenge, I will help Jeremy and the data analytics team do the followi
  - Deliverable 3: T-Test on Suspension Coils
  - Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
+
+## Tools Used :
+
+### 1. R - 
+R is a versatile and extensible programming language with many benefits. One of the benefits of using an interpreted programming language such as R (or Python) is that the analysis scripts are written in plaintext. The versions of plaintext files are easy to control using tools such as Git, which means that R analysis scripts (or RScripts) are highly reproducible and easy to share with peers and collaborators. Another benefit to using R is that the R programming language was specifically designed for data analysis. This means that the process of loading in a dataset, visualizing the data, and performing statistical tests is straightforward and easy to interpret. In fact, many of the statistical tests in Python have been directly ported from R due to how well they were implemented. In addition to the native statistical functions, there are many other useful data transformation and modelling libraries, such as the tidyverse package, that simplify the process of ETL and visualizations.
+
+### 2. RStudio Integrated Development Environment - 
+Just as Jupyter Notebooks are an integrated development environment (IDE) used to help design and test Python scripts, RStudio is an IDE used to help design and test RScripts. RStudio provides users a graphical user interface (GUI) with multiple dynamic windows and perpetual access to their RScript and R console.
+
+Similar to Jupyter Notebooks, RStudio enables users to test their analysis scripts line by line while allowing users to view different environment variables and outputs. This means that for each line of code written and executed, users can verify the results and troubleshoot any problems quickly and easily.
 ## Results :
 
 ### 1. Deliverable 1 - Linear Regression to Predict MPG - 
