@@ -123,6 +123,7 @@ Before we can apply any statistical test to our data, we must check if there are
 As long as our input data satisfies (or mostly satisfies) the above assumptions, we can use the one-sample t-test to assert the similarities or differences in our data.
 
 Finally, summarizing the interpretation and findings for the t-test results below -
+
 After conducting the  t-test on the suspension coil data to determine whether there is a statistical difference between the mean of this provided sample dataset and a hypothesized, potential population dataset, we find that the true mean of the sample is 1498.78. the p-value of 0.06 is higher than the common significance level of 0.05. As a result it looks like there is not much evidence to do away with th enull hypothesis. The mean of all the three lots manufactured are statistically similar to the pre assumption mean of 1500. 
 For lot 1, the sample has the true sample mean of 1500. Thus there is no statistical difference between the observed sample mean and presumed population mean. Hence the null hypothesis cannot be rejected.
 For lot 2,the outcome is similar with sample mean of 1500.02, p-value of 0.61. The null hypothesis cannot be rejecetd. Also, the sample and population means are statistically similar.
