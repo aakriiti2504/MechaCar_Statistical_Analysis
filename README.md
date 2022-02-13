@@ -75,6 +75,7 @@ The MechaCar Suspension_Coil.csv dataset contains the results from multiple prod
 
  - The suspension coil’s PSI continuous variable across all manufacturing lots
  - The following PSI metrics for each lot: mean, median, variance, and standard deviation.
+ 
 ![del2](https://user-images.githubusercontent.com/23488019/153746961-1ad14dc3-b50b-4e8f-8b05-4e60c1c0237b.PNG)
 
 The total_summary dataframe looks like the following - 
@@ -92,8 +93,9 @@ A short summary using screenshots from the total_summary and lot_summary datafra
 
 - The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 The entire population of the production lot, the variance of the coils is 62.29 PSI, which is well within the 100 PSI variance requirement. Lots 1 nad 2 are within the given range however lot 3 has some variance. As we know the following Ho and Ha definitions - 
-Ho: There is no significant difference between the mean PSI of all manufacturing lots and individual lots and population mean of 1500 PSI. 
-Ha: There is significant difference between the mean PSI of all manufacturing lots and population mean of 1500 PSI
+
+- Ho: There is no significant difference between the mean PSI of all manufacturing lots and individual lots and population mean of 1500 PSI. 
+- Ha: There is significant difference between the mean PSI of all manufacturing lots and population mean of 1500 PSI
 
 The design specifications for the suspension coils show that the variance of the suspension coils must not exceed 100 pounds per square inch. It can also be noted that the Lot 1 and Lot 2 are  within design the specifications since they have similar mean and median. Lot 3 shows the most variance and exceeds the manufacturers specifications.
 
