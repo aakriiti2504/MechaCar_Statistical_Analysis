@@ -92,5 +92,10 @@ Summarizing the interpretation and findings for the t-test results below -
 
 ## Resources : 
 
-Datasets- 
+1. Datasets- MechaCar_mpg.csv and Suspension_Coil.csv
+2. https://courses.bootcampspot.com/courses/791/pages/15
+3. https://github.com/rstudio/cheatsheets/blob/main/data-visualization.pdf
+4. https://cran.r-project.org/mirrors.html
+5. https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf
+
 
