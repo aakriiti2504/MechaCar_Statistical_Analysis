@@ -62,7 +62,7 @@ t.test((subset(suspension_coil_mpg, Manufacturing_Lot == "Lot3")$PSI),mu=(1500))
                                           
 
 
-## Deliverable 4 : 
+
 
 
                                           
