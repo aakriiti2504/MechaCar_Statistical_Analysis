@@ -53,6 +53,7 @@ Similar to Jupyter Notebooks, RStudio enables users to test their analysis scrip
 
 The MechaCar_mpg.csv dataset contains mpg test results for 50 prototype MechaCars. The MechaCar prototypes were produced using multiple design specifications to identify ideal vehicle performance. Multiple metrics, such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance, were collected for each vehicle. Using the knowledge of R, I  designed a linear model that predicts the mpg of MechaCar prototypes using several variables from the MechaCar_mpg.csv file. This is followed by  a short interpretation of the multiple linear regression results.
 
+![del1](https://user-images.githubusercontent.com/23488019/153746057-2e93f5ee-e775-4208-8445-ca3867175f7e.PNG)
 
 #### Summary of Linear Regression to Predict MPG -
 
