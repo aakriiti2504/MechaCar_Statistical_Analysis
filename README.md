@@ -18,7 +18,8 @@ In this challenge, I will help Jeremy and the data analytics team do the followi
  - Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. 
  
  
- ![a1](https://user-images.githubusercontent.com/23488019/153745063-e85d8887-954a-418a-a49c-3923fce37ffb.PNG)
+ ![a2](https://user-images.githubusercontent.com/23488019/153745092-3eaf2d23-6fe5-430a-b508-c5d80b554467.PNG)
+
 
  Thus, this project consists of three technical analysis deliverables and a proposal for further statistical study. The project is divided into the following parts:
 
