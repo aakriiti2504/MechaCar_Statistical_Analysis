@@ -4,9 +4,9 @@ A few weeks after starting his new role, Jeremy is approached by upper managemen
 
 ## Background :
 
+Jeremy has been working with AutosRUs industry for a long time. In his time he has seen a lot of cars come and go. The company is finally realizing that the decision making process could be moved into the 21st century. Jeremy with his strong external connections and exhaustive knowledge of the product has been chosen as the data primary analyst for the company's data analytics team. The data analytics team is in charge of performing retrospective analysis of historical data, analytical verification and validation of current auto motor specifications and study design of future product testing. The executive team recognizes that the most successful automobile launches utilize data analytics in every decision making process. Therefore, Jeremy must ensure that his analysis contain a statistical backbone, quantitative metric and clear interpretation of the results in order to keep the upper management happy. Additionallt the data team consist of 5 members who only know how to program using 'R'. So Jeremy will have to learn a new language in order to perform the statistical tests. In this project I will help Jeremy perform statistical tests using 'R'. 
 
-
-
+![a1](https://user-images.githubusercontent.com/23488019/153745054-a55f6d55-d97a-4ea7-9f41-9124a403d4cc.PNG)
 
 ## Purpose :
 
@@ -17,6 +17,9 @@ In this challenge, I will help Jeremy and the data analytics team do the followi
  - Run t-tests to determine if the manufacturing lots are statistically different from the mean population
  - Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. 
  
+ 
+ ![a1](https://user-images.githubusercontent.com/23488019/153745063-e85d8887-954a-418a-a49c-3923fce37ffb.PNG)
+
  Thus, this project consists of three technical analysis deliverables and a proposal for further statistical study. The project is divided into the following parts:
 
  - Deliverable 1: Linear Regression to Predict MPG
@@ -25,7 +28,7 @@ In this challenge, I will help Jeremy and the data analytics team do the followi
  - Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
 
-## Tools Used :
+## Software Used :
 
 ### 1. R - 
 R is a versatile and extensible programming language with many benefits. One of the benefits of using an interpreted programming language such as R (or Python) is that the analysis scripts are written in plaintext. The versions of plaintext files are easy to control using tools such as Git, which means that R analysis scripts (or RScripts) are highly reproducible and easy to share with peers and collaborators. Another benefit to using R is that the R programming language was specifically designed for data analysis. This means that the process of loading in a dataset, visualizing the data, and performing statistical tests is straightforward and easy to interpret. In fact, many of the statistical tests in Python have been directly ported from R due to how well they were implemented. In addition to the native statistical functions, there are many other useful data transformation and modelling libraries, such as the tidyverse package, that simplify the process of ETL and visualizations.
@@ -34,6 +37,15 @@ R is a versatile and extensible programming language with many benefits. One of 
 Just as Jupyter Notebooks are an integrated development environment (IDE) used to help design and test Python scripts, RStudio is an IDE used to help design and test RScripts. RStudio provides users a graphical user interface (GUI) with multiple dynamic windows and perpetual access to their RScript and R console.
 
 Similar to Jupyter Notebooks, RStudio enables users to test their analysis scripts line by line while allowing users to view different environment variables and outputs. This means that for each line of code written and executed, users can verify the results and troubleshoot any problems quickly and easily.
+
+
+## Data Tools:
+
+1. tidyverse
+2. ggplot2
+3. dplyr
+
+
 ## Results :
 
 ### 1. Deliverable 1 - Linear Regression to Predict MPG - 
